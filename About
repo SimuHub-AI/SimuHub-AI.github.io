@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About SimuHub</title>
+</head>
+
+<body>
+  <h1>About SimuHub</h1>
+
+  <p>This is the second page. Simuhub is a platform for the Simulation software,models and communication.</p>
+
+  <a href="index.html">Back Home</a>
+</body>
+</html>
